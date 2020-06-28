@@ -64,15 +64,15 @@
   </url>
   
   <url>
+    <loc>https://test.fap-cascais.info/</loc>
+  </url>
+  
+  <url>
     <loc>https://test.fap-cascais.info/shortcodes/table/</loc>
   </url>
   
   <url>
     <loc>https://test.fap-cascais.info/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://test.fap-cascais.info/</loc>
   </url>
   
 </urlset>

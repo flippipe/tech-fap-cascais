@@ -15,7 +15,7 @@ googleAnalytics = ""
 
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
-disableSearch = false # default is false
+disableSearch = true # default is false
 disableReadmoreNav = false # set true to hide prev/next navigation, default is false
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
@@ -29,16 +29,6 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "More from us"
+name = "mais sobre FAP Cascais"
 url = "https://www.fap-cascais.info"
 weight = 1
-
-[[menu.shortcuts]]
-name = "<i class='fab fa-github'></i>"
-url = "https://github.com/vantagedesign/ace-documentation"
-weight = 2
-
-[[menu.shortcuts]]
-name = "<button class='btn btn-success mt-n1'>Download</button>"
-url = "https://github.com/vantagedesign/ace-documentation/releases"
-weight = 3

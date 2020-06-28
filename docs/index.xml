@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TITLE Ace documentation on FAP Cascais</title>
+    <title>FAP Cascais</title>
     <link>https://test.fap-cascais.info/</link>
-    <description>Recent content in TITLE Ace documentation on FAP Cascais</description>
+    <description>Recent content on FAP Cascais</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
     
@@ -118,7 +118,7 @@ I&amp;#39;m important  Be sure to read me, I might have important information fo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://test.fap-cascais.info/page-top/</guid>
-      <description>page-top.md </description>
+      <description>page-top.md bla bla bla</description>
     </item>
     
     <item>
