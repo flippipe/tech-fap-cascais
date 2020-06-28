@@ -3,11 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://test.fap-cascais.info/categories/</loc>
+    <loc>https://test.fap-cascais.info/shortcodes/alerts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/getting-started/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/getting-started/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/shortcodes/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/configuration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/getting-started/usage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/shortcodes/childpages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/shortcodes/code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/shortcodes/collapse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/shortcodes/doublecode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/shortcodes/lead/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/shortcodes/panel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/page-top/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://test.fap-cascais.info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://test.fap-cascais.info/shortcodes/table/</loc>
   </url>
   
   <url>
